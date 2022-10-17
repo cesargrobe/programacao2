@@ -2,7 +2,7 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 header {
-	background: black;
+	background: #062157;
     padding: 15px 0;
 }
 .caixa {
@@ -21,13 +21,13 @@ nav li {
 }
 nav a {
     text-transform: uppercase;
-    color: #FFFFFE;
+    color: #f6f610;
     font-weight: bold;
     font-size: 25px;
     text-decoration: none;
 }
 nav a:hover {
-    color:#770a0a;
+    color:#FFFFFF;
     text-decoration: underline;
 }
 .banner {
@@ -35,7 +35,7 @@ nav a:hover {
 }
 .principal {
     padding: 3em 0;
-    background: #646447;
+    background: #FFFFFE;
     width: 940px;
     margin: 0 auto;
 }
@@ -117,3 +117,8 @@ footer {
     font-size: 15px;
     margin: 10px 0 0;
 }
+.color1 { color: #f7f610 }
+.color2 { color: #648cd4 }
+.color3 { color: #0c763d }
+.color4 { color: #062157 }
+.color5 { color: #b3c8b2 }
